@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Your Name - Developer</title>
+    <title>XeCrippy - Developer</title>
     <style>
         body {
             font-family: Arial, sans-serif;
