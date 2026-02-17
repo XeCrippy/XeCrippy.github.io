@@ -175,3 +175,30 @@ footer {
   text-align: center;
   color: var(--muted);
 }
+
+.theme-btn {
+  background: transparent;       /* fully transparent */
+  border: none;                  /* remove default border */
+  color: var(--text);            /* theme-aware icon color */
+  cursor: pointer;
+  font-size: 1.1rem;
+  padding: 0.4rem 0.5rem;
+  border-radius: 8px;
+  line-height: 1;
+}
+
+.theme-btn:hover {
+  color: var(--accent);
+}
+
+.theme-btn:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+.theme-btn {
+  min-width: 36px;
+  min-height: 36px;
+}
+
+
