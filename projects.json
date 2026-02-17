@@ -19,5 +19,11 @@
      "github": "https://github.com/XeCrippy/XSolaceUnlocker",
      "tags": ["plugins", "achievements"],
      "screenshot": "images/xsolaceunlocker.jpg"
+  },
+  {
+      "name": "Memory Search V2",
+      "description": "Cheat Engine style memory search tool inspired by XeClutch's Xbox 360 Cheat Engine",
+      "github": "https://github.com/XeCrippy/MemorySearchV3",
+      "tags": ["plugins", "achievements"],
   }
 ]
