@@ -201,4 +201,13 @@ footer {
   min-height: 36px;
 }
 
+pre {
+  border-radius: 12px;
+  padding: 1rem;
+  overflow-x: auto;
+  max-width: 100%;
+}
 
+code {
+  font-size: 0.9rem;
+}
