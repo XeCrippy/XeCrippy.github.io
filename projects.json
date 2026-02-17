@@ -16,7 +16,7 @@
   {
     "name": "Py-XBDM",
     "description": "Python RPC library for Xbox 360 RGH consoles. This is meant to be used as a python replacement for jrpc.dll",
-    "github": "https://github.com/XeCrippy/py-xbdm"
+    "github": "https://github.com/XeCrippy/py-xbdm",
     "tags": ["rpc", "libraries", "python"]
   },
   {
@@ -34,5 +34,6 @@
       "screenshot": "images/memorysearch.png"
   }
 ]
+
 
 
