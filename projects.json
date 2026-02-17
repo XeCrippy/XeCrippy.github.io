@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Retro 360 [Lite]",
+    "description": "Achievement management software for Xbox 360 RGH Consoles",
+    "github": "https://github.com/XeCrippy/Retro360-Lite-",
+    "tags": ["xbox", "achievements", "c++"],
+    "screenshot": "images/retro360lite.gif"
+  },
+  {
+    "name": "Retro360",
+    "description": "Xbox 360 RGH Multi-Tool. This is a packaged WinUI 3 app written in C++.",
+    "github": "https://github.com/XeCrippy/Retro360",
+    "tags": ["mods", "game-mods", "achievements"],
+    "screenshot": "images/retro360.png"
+  },
+  {
+     "name": "XSolaceUnlocker",
+     "description": "Xbox 360 RGH Achievement Unlocker Plugin. Unlocks achievements, avatar awards, and gamer pics",
+     "github": "https://github.com/XeCrippy/XSolaceUnlocker",
+     "tags": ["plugins", "achievements"],
+     "screenshot": "images/xsolaceunlocker.jpg"
+  }
+]
