@@ -14,6 +14,12 @@
     "screenshot": "images/retro360lite.gif"
   },
   {
+    "name": "Py-XBDM",
+    "description": "Python RPC library for Xbox 360 RGH consoles. This is meant to be used as a python replacement for jrpc.dll",
+    "github": "https://github.com/XeCrippy/py-xbdm"
+    "tags": ["rpc", "libraries", "python"]
+  }
+  {
      "name": "XSolaceUnlocker",
      "description": "Xbox 360 RGH Achievement Unlocker Plugin. Unlocks achievements, avatar awards, and gamer pics",
      "github": "https://github.com/XeCrippy/XSolaceUnlocker",
@@ -28,3 +34,4 @@
       "screenshot": "images/memorysearch.png"
   }
 ]
+
