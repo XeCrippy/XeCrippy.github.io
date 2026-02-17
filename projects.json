@@ -1,5 +1,12 @@
 [
   {
+    "name": "Py-XBDM",
+    "description": "Python RPC library for Xbox 360 RGH consoles. This is meant to be used as a python replacement for jrpc.dll",
+    "github": "https://github.com/XeCrippy/py-xbdm",
+    "tags": ["rpc", "libraries", "python"],
+    "screenshot": ""
+  },
+  {
     "name": "Retro360",
     "description": "Xbox 360 RGH Multi-Tool. This is a packaged WinUI 3 app written in C++.",
     "github": "https://github.com/XeCrippy/Retro360",
@@ -12,13 +19,6 @@
     "github": "https://github.com/XeCrippy/Retro360-Lite-",
     "tags": ["xbox", "achievements", "c++"],
     "screenshot": "images/retro360lite.gif"
-  },
-  {
-    "name": "Py-XBDM",
-    "description": "Python RPC library for Xbox 360 RGH consoles. This is meant to be used as a python replacement for jrpc.dll",
-    "github": "https://github.com/XeCrippy/py-xbdm",
-    "tags": ["rpc", "libraries", "python"],
-    "screenshot": ""
   },
   {
      "name": "XSolaceUnlocker",
@@ -35,6 +35,7 @@
       "screenshot": "images/memorysearch.png"
   }
 ]
+
 
 
 
