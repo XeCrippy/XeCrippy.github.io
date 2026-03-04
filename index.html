@@ -5,65 +5,68 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>XeCrippy | Portfolio</title>
   <link rel="stylesheet" href="style.css" />
-  <link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/prismjs/themes/prism-tomorrow.min.css"/>
-  
 </head>
 <body>
-
-<header>
-  <nav class="nav">
-    <div>XeCrippy.dev</div>
-    <ul>
+  <header class="site-header">
+    <nav class="nav">
+      <a href="#about" class="brand">XeCrippy.dev</a>
+      <ul class="nav-links">
         <li><a href="#about">About</a></li>
+        <li><a href="#tiers">Tiers</a></li>
         <li><a href="#projects">Projects</a></li>
         <li><a href="#contact">Contact</a></li>
-        <li>
-        <button id="themeToggle" class="theme-btn">&#x1F4A1;</button>
-  </li>
-</ul>
+      </ul>
+      <div class="nav-actions">
+        <button id="themeToggle" class="theme-btn" aria-label="Toggle color theme">Theme</button>
+        <a class="btn btn-primary" href="https://github.com/XeCrippy">Follow</a>
+      </div>
+    </nav>
+  </header>
 
-  </nav>
-</header>
+  <main>
+    <section id="about" class="hero">
+      <div>
+        <p class="kicker">Independent creator · Xbox 360 RGH tooling</p>
+        <h1>Building practical tools for modding and reverse engineering.</h1>
+        <p class="hero-copy">
+          I ship low-level libraries, game-mod workflows, and desktop utilities focused on Xbox 360 RGH ecosystems.
+          Explore active projects, updates, and direct links to source.
+        </p>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="#projects">See projects</a>
+          <a class="btn btn-secondary" href="https://discord.com/users/374604756045266944">Discord</a>
+          <a class="btn btn-secondary" href="https://patreon.com/XeCrippy?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_fan&utm_content=copyLink">Donate</a>
+        </div>
+      </div>
+      <aside class="hero-panel" aria-label="Creator stats">
+        <h2>Creator Snapshot</h2>
+        <div class="stat"><span>Focus</span><strong>Console tooling</strong></div>
+        <div class="stat"><span>Primary stack</span><strong>C++, C#, Python</strong></div>
+        <div class="stat"><span>Release style</span><strong>Open-source first</strong></div>
+      </aside>
+    </section>
+    
+    <section id="projects">
+      <h2>Featured projects</h2>
+      <p class="section-copy">Selected tools and experiments from my GitHub portfolio.</p>
+      <div id="projects-grid" class="projects"></div>
+    </section>
 
-<main>
-  <section id="about" class="hero">
-    <h1>Hi, I’m XeCrippy</h1>
-    <p>
-      I build low-level tools, console software, game mods, and experimental projects for Xbox 360 RGH consoles
-      This site highlights some of my work.
-    </p>
-  </section>
+    <section id="contact" class="contact-card">
+      <h2>Contact</h2>
+      <p>
+        <a href="https://github.com/XeCrippy">GitHub</a> ·
+        <a href="https://www.se7ensins.com/members/xecrippy.1701761/">Se7ensins</a> ·
+        <a href="https://discord.com/users/374604756045266944">Discord</a>
+      </p>
+    </section>
+  </main>
 
-  <section id="projects">
-    <h2>Projects</h2>
-    <div id="projects-grid" class="projects"></div>
-  </section>
+  <footer>
+    © <span id="year"></span> XeCrippy
+  </footer>
 
-  <section id="contact">
-    <h2>Contact</h2>
-    <p>
-      <a href="https://github.com/XeCrippy">GitHub</a> ·
-      <a href="https://www.se7ensins.com/members/xecrippy.1701761/">Se7ensins</a> ·
-      <a href="https://discord.com/users/374604756045266944">Discord</a>
-    </p>
-  </section>
-</main>
-
-<footer>
-  © <span id="year"></span> XeCrippy
-</footer>
-
-<script src="script.js"></script>
-    <!-- Prism core -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"></script>
-
-  <!-- Language support (add what you need) -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-javascript.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-css.min.js"></script>
-</body>
-  
+  <script src="script.js"></script>
 </body>
 </html>
 
