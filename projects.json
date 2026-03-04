@@ -7,13 +7,6 @@
     "screenshot": ""
   },
   {
-    "name": "Retro360",
-    "description": "Xbox 360 RGH Multi-Tool. This is a packaged WinUI 3 app written in C++.",
-    "github": "https://github.com/XeCrippy/Retro360",
-    "tags": ["mods", "game-mods", "achievements"],
-    "screenshot": "images/retro360.png"
-  },
-  {
     "name": "Retro 360 [Lite]",
     "description": "Achievement management software for Xbox 360 RGH Consoles",
     "github": "https://github.com/XeCrippy/Retro360-Lite-",
@@ -35,6 +28,7 @@
       "screenshot": "images/memorysearch.png"
   }
 ]
+
 
 
 
