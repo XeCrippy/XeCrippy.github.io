@@ -2,7 +2,6 @@
   {
     "name": "Solace 360 Web",
     "description": "Web-based RTE tool for RGH/JTAG consoles",
-    "github": "",
     "tags": [],
     "screenshot": "images/s360-web.png"
   },
