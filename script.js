@@ -51,7 +51,7 @@ function renderProjects(projects) {
       <h3>${project.name}</h3>
       <p>${project.description}</p>
       <div class="meta">${tags}</div>
-      <a class="project-link" href="${project.github}" target="_blank" rel="noopener noreferrer">View on GitHub →</a>
+      <a class="project-link" href="${project.github}" target="_blank" rel="noopener noreferrer">View →</a>
     `;
 
     grid.appendChild(card);
