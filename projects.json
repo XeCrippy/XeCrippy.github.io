@@ -3,7 +3,8 @@
     "name": "Solace 360 Web",
     "description": "Web-based RTE tool for RGH/JTAG consoles",
     "tags": [],
-    "screenshot": "images/s360-web.png"
+    "screenshot": "images/s360-web.png",
+    "github": "https://solace360.dev"
   },
   {
     "name": "Py-XBDM",
