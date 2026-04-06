@@ -1,12 +1,5 @@
 [
   {
-    "name": "Solace 360 Web",
-    "description": "Web-based RTE tool for RGH/JTAG consoles",
-    "tags": [],
-    "screenshot": "images/Screenshot_20260322-134759.png",
-    "github": "https://solace360.dev"
-  },
-  {
     "name": "Py-XBDM",
     "description": "Python RPC library for Xbox 360 RGH consoles. This is meant to be used as a python replacement for jrpc.dll",
     "github": "https://github.com/XeCrippy/py-xbdm",
