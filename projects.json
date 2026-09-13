@@ -1,5 +1,12 @@
 [
   {
+    "name": "SRPC-Client C#",
+    "description": "C# client library for SRPC.xex",
+    "github": "https://github.com/XeCrippy/srpc_client-csharp",
+    "tags": ["rpc", "libraries", "c#", "srpc"],
+    "screenshot": "images/srpc_client-csharp.png"
+  },
+  {
     "name": "Py-XBDM",
     "description": "Python RPC library for Xbox 360 RGH consoles. This is meant to be used as a python replacement for jrpc.dll",
     "github": "https://github.com/XeCrippy/py-xbdm",
