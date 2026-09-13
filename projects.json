@@ -1,4 +1,11 @@
-[
+[  
+   {
+    "name": "Solace 360 RTE Tool",
+    "description": "A comprehensive multi-tool for modded xbox 360 consoles.",
+    "github": "https://www.solace360.dev/products/solace-360",
+    "tags": ["xbox 360", "dev tools", "mods", "achievements"],
+    "screenshot": "images/s360-home.png"
+  },
    {
     "name": "SolaceLive Stealth",
     "description": "Stealth server for RGH/XDK consoles",
