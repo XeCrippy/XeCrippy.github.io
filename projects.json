@@ -1,5 +1,12 @@
 [  
    {
+    "name": "Coming soon...Solace Dashboard web app",
+    "description": "A comprehensive multi-tool for modded xbox 360 consoles from your web browser.",
+    "github": "https://www.solace360.dev/products/solace-console",
+    "tags": ["xbox 360", "dev tools", "mods", "achievements", "web"],
+    "screenshot": "images/Screenshot_20260913-020419.png"
+  },
+   {
     "name": "Solace 360 RTE Tool",
     "description": "A comprehensive multi-tool for modded xbox 360 consoles.",
     "github": "https://www.solace360.dev/products/solace-360",
