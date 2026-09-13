@@ -1,4 +1,11 @@
 [
+   {
+    "name": "SolaceLive Stealth",
+    "description": "Stealth server for RGH/XDK consoles",
+    "github": "https://www.solace360.dev/products/solace-live",
+    "tags": ["xbox live", "stealth", "mods"],
+    "screenshot": "solacelive-dashboard (1).png"
+  },
   {
     "name": "SRPC-Client C#",
     "description": "C# client library for SRPC.xex",
